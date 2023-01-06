@@ -10,8 +10,8 @@
 
 <div align="center">
   <h2>📊 Minhas estatísticas do github</h2>
-    <a href="https://github.com/miguelItalo/miguelItalo.git"><img alt="miguelItalo Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelItalo&show_icons=true&count_private=true&theme=merko&hide_border=false" /></a>
-    <a href="https://github.com/miguelItalo/miguelItalo.git"><img alt="Miguel Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelItalo&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=false&" /></a>
+    <a href="https://github.com/miguelItalo/miguelItalo.git"><img alt="miguelItalo Stats" height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=miguelItalo&show_icons=true&count_private=true&theme=merko&hide_border=true" /></a>
+    <a href="https://github.com/miguelItalo/miguelItalo.git"><img alt="Miguel Top Languages" height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelItalo&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&" /></a>
 </div>
 
 
