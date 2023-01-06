@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/miguel-italo-1136b7243/" target="_blank">Miguel Italo 🙃</a>
   </h1>
   <div align="center">
-    <p>Atualmento estou cursando informática para internet no SESI/SENAI</p>
+    <p>Atualmente estou cursando informática para internet no SESI/SENAI</p>
   </div>
 </div>
 
