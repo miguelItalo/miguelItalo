@@ -9,14 +9,14 @@
 </div>
 
 <div align="center">
-  <h2>📊 Minhas estatísticas do github</h2>
-    <a href="https://github.com/miguelItalo/miguelItalo.git"><img alt="miguelItalo Stats" height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=miguelItalo&show_icons=true&count_private=true&theme=merko&hide_border=true" /></a>
-    <a href="https://github.com/miguelItalo/miguelItalo.git"><img alt="Miguel Top Languages" height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelItalo&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&" /></a>
+  <h2>📊 Minhas estatísticas do github</h2><br>
+    <a href="https://github.com/miguelItalo/miguelItalo.git"><img alt="miguelItalo Stats" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=miguelItalo&show_icons=true&count_private=true&theme=merko&hide_border=true" /></a>
+    <a href="https://github.com/miguelItalo/miguelItalo.git"><img alt="Miguel Top Languages" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelItalo&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&" /></a>
 </div>
 
 
 <div align="center" valign="top"><br>
-  <h2>🚀 Linguagens e Ferramentas:</h2>
+  <h2>🚀 Linguagens e Ferramentas:</h2><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
