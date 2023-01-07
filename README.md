@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <h1>💻 Alguns dos meus projetos</h1>
+  <h2>💻 Alguns dos meus projetos</h2>
   <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=js-developer-portfolio&theme=merko&hide_border=true" />
   <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=js-developer-pokedex&theme=merko&hide_border=true" />
   <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=desafio01-ts&theme=merko&hide_border=true" />
