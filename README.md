@@ -8,6 +8,7 @@
   </div>
 </div>
 
+
 <div align="center">
   <h2>📊 Minhas estatísticas do github</h2><br>
     <a href="https://github.com/miguelItalo/miguelItalo.git"><img alt="miguelItalo Stats" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=miguelItalo&show_icons=true&count_private=true&theme=merko&hide_border=true" /></a>
@@ -15,6 +16,17 @@
 </div>
 
 
+<div align="center">
+  <h1>💻 Alguns dos meus projetos</h1>
+  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=js-developer-portfolio&theme=merko&hide_border=true" />
+  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=js-developer-pokedex&theme=merko&hide_border=true" />
+  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=desafio01-ts&theme=merko&hide_border=true" />
+  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=desafio02-ts&theme=merko&hide_border=true" />
+  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=Netflix-clone&theme=merko&hide_border=true" />
+  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=nlw-10-copa&theme=merko&hide_border=true" />
+</div>
+
+    
 <div align="center" valign="top"><br>
   <h2>🚀 Linguagens e Ferramentas:</h2><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,6 +38,7 @@
 <!--   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->
 </div><br>
 
+    
 <div align="center">
   <h2>📧 Contato</h2>
   <a href="https://www.linkedin.com/in/miguel-italo-1136b7243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
