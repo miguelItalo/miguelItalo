@@ -18,12 +18,12 @@
 
 <div align="center">
   <h2>💻 Alguns dos meus projetos</h2><br>
-  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=js-developer-portfolio&theme=merko&hide_border=true" />
-  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=js-developer-pokedex&theme=merko&hide_border=true" />
-  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=desafio01-ts&theme=merko&hide_border=true" />
-  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=desafio02-ts&theme=merko&hide_border=true" />
-  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=Netflix-clone&theme=merko&hide_border=true" />
-  <a hre="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=nlw-10-copa&theme=merko&hide_border=true" />
+  <a href="https://github.com/miguelItalo/js-developer-portfolio.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=js-developer-portfolio&theme=merko&hide_border=true" />
+  <a href="https://github.com/miguelItalo/js-developer-pokedex.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=js-developer-pokedex&theme=merko&hide_border=true" />
+  <a href="https://github.com/miguelItalo/desafio01-ts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=desafio01-ts&theme=merko&hide_border=true" />
+  <a href="https://github.com/miguelItalo/desafio02-ts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=desafio02-ts&theme=merko&hide_border=true" />
+  <a href="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=Netflix-clone&theme=merko&hide_border=true" />
+  <a href="https://github.com/miguelItalo/miguelItalo.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelItalo&repo=nlw-10-copa&theme=merko&hide_border=true" />
 </div>
 
     
