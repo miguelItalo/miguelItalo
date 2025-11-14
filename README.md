@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/miguel-italo-1136b7243/" target="_blank">Miguel Italo 🙃</a>
   </h1><br>
   <div align="center">
-    <p>Atualmente estou cursando informática para internet no SESI/SENAI</p>
+    <p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera</p>
   </div>
 </div>
 
@@ -35,7 +35,6 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">  
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="mySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
 </div><br>
 
     
